@@ -171,6 +171,11 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Entities\Item.cs" />
+    <Compile Include="Entities\MaxLangthAttribute.cs" />
+    <Compile Include="Entities\ItemType.cs" />
+    <Compile Include="Entities\Part.cs" />
+    <Compile Include="Entities\Section.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -248,7 +253,6 @@
     <Folder Include="Content\documents\" />
     <Folder Include="Content\images\" />
     <Folder Include="Content\logos\" />
-    <Folder Include="Entities\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

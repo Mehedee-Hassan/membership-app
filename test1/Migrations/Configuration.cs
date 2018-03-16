@@ -9,7 +9,10 @@ namespace test1.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
+
+
         }
 
         protected override void Seed(test1.Models.ApplicationDbContext context)
@@ -26,6 +29,8 @@ namespace test1.Migrations
             //      new Person { FullName = "Rowan Miller" }
             //    );
             //
+
+
         }
     }
 }
