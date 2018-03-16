@@ -66,3 +66,4 @@ F:\programming\asp.net\test1\test1\bin\Microsoft.Owin.Security.Twitter.xml
 F:\programming\asp.net\test1\test1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\programming\asp.net\test1\test1\obj\Debug\test1.dll
 F:\programming\asp.net\test1\test1\obj\Debug\test1.pdb
+F:\programming\asp.net\test1\test1\obj\Debug\MembershipApp.csprojResolveAssemblyReference.cache
